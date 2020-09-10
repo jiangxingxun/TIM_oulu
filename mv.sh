@@ -1,0 +1,17 @@
+cp -a TIM_224by224_f8/part_0/* ./clip_224x224_8f_for_model/ & \
+cp -a TIM_224by224_f8/part_1/* ./clip_224x224_8f_for_model/ & \
+cp -a TIM_224by224_f8/part_2/* ./clip_224x224_8f_for_model/ & \
+cp -a TIM_224by224_f8/part_3/* ./clip_224x224_8f_for_model/ & \
+cp -a TIM_224by224_f8/part_4/* ./clip_224x224_8f_for_model/ & \
+cp -a TIM_224by224_f8/part_5/* ./clip_224x224_8f_for_model/ & \
+cp -a TIM_224by224_f8/part_6/* ./clip_224x224_8f_for_model/ & \
+cp -a TIM_224by224_f8/part_7/* ./clip_224x224_8f_for_model/ & \
+cp -a TIM_224by224_f8/part_8/* ./clip_224x224_8f_for_model/ & \
+cp -a TIM_224by224_f8/part_9/* ./clip_224x224_8f_for_model/ & \
+cp -a TIM_224by224_f8/part_10/* ./clip_224x224_8f_for_model/ & \
+cp -a TIM_224by224_f8/part_11/* ./clip_224x224_8f_for_model/ & \
+cp -a TIM_224by224_f8/part_12/* ./clip_224x224_8f_for_model/ & \
+cp -a TIM_224by224_f8/part_13/* ./clip_224x224_8f_for_model/ & \
+cp -a TIM_224by224_f8/part_14/* ./clip_224x224_8f_for_model/ & \
+cp -a TIM_224by224_f8/part_15/* ./clip_224x224_8f_for_model/ & \
+cp -a TIM_224by224_f8/part_16/* ./clip_224x224_8f_for_model/ & \
